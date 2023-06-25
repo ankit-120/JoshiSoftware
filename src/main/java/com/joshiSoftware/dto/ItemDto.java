@@ -23,6 +23,6 @@ public class ItemDto {
     private int boxCount;
     private String specification;
     private String checklist;
-    private int isFilled;
+    private int customer;
 
 }
